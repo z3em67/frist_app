@@ -1,0 +1,50 @@
+.about-container {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.about-card {
+  width: 100%;
+  max-width: 1000px;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  border-radius: 20px;
+  padding: 40px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  color: white;
+}
+
+.about-text {
+  width: 100%;
+}
+
+.about-text h2 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.about-text p {
+  color: #cbd5e1;
+  line-height: 1.8;
+  margin-bottom: 15px;
+  font-size: 25px;
+  margin-top: 40px;
+}
+
+.about-text button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #38bdf8;
+  cursor: pointer;
+}
+
+
+
+.about-text {
+  width: 80%;
+  padding-right: 10px;
+}
